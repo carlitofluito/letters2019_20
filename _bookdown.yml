@@ -1,0 +1,7 @@
+book_filename: "Letters 2019-2020 Carlito Fluito"
+chapter_name: ""
+repo: https://github.com/carlitofluito/letters2019_20
+output_dir: docs
+rmd_files: ["index.Rmd", "01.Rmd"]
+clean: [packages.bib, bookdown.bbl]
+new_session: yes
