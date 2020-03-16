@@ -4,8 +4,6 @@ author: "Carlos Alcala a.k.a. Carlito Fluito"
 date: "2020-03-16"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib]
-biblio-style: apalike
 link-citations: yes
 github-repo: carlitofluito/letters2019_20
 description: "This is a compendium of some of the letters written, sent and received between September 2019 and September 2020."

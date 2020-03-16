@@ -2,6 +2,6 @@ book_filename: "letters2019_20"
 chapter_name: ""
 repo: https://github.com/carlitofluito/letters2019_20
 output_dir: docs
-rmd_files: ["index.Rmd", "01.Rmd"]
+rmd_files: ["index.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
