@@ -1,3 +1,29 @@
+--- 
+title: "Paving my path (Letters from 2019-2020)"
+author: "Carlos Alcala a.k.a. Carlito Fluito"
+date: "2020-03-16"
+site: bookdown::bookdown_site
+documentclass: book
+link-citations: yes
+github-repo: carlitofluito/letters2019_20
+description: "This is a compendium of some of the letters written, sent and received between September 2019 and September 2020."
+---
+
+# Preamble {-#preamble}
+
+We are socially fragmented. 
+
+Memory, knowledge, lives, even identities. Everything is dispersed (another argument supporting the non-local consciousness theory). 
+
+The aim of this epistolary work is to know a bit better what I am now thorugh the compilation of pieces of what I have been. I have been told in the past that there was wisdom in the texts I wrote, and I am sure that there is wisdom in the texts I received. 
+I hope you find something that makes your life more meaningful and satisfactory. I hope you find a bunch of human beings that, like you, have suffered and have enjoyed moments of their lives. A bunch of human beings that, after all, have lived.
+
+## A bit of context {-#context}
+
+In September 2019, I started my second year as a Ph.D. student at UCLOuvain, in Belgium. A bit later, I would get involved in a deep and turbulent relationship that made me see life differently. Later on, I change my life path, stop the Ph.D. studies, and dedicate my time and life to become a spiritual psychologist, and a full-time artist. Then, COVID-19 cought me in Berlin...
+
+<!--chapter:end:index.Rmd-->
+
 # Depths again. February, 2020 {#2020.02}
 
 ## 2020-02-11 To B. {#Borna}
@@ -15,9 +41,7 @@ So, I wake up about 20 minutes ago in the office. I stayed here last night becau
 
 And for the record, that is my face after waking up in the office:
 
-```{r fig.align='center', echo=FALSE}
-knitr::include_graphics("images/2020/Borna/ofi.jpg")
-```
+<img src="images/2020/Borna/ofi.jpg" width="508" style="display: block; margin: auto;" />
 
 This is my life, as I told you in the Facebook conversation. Getting entertained with work, close to becoming an addict, and fighting my express depressions with whatever I can find. I have been recently in probably my worst period in Brussels. I was giving so many fucks that I wasn't taking care of myself the minimum amount, not even the least. For example, Saturday, after struggling with leaving home, I finally went to a café, making myself believe that I was going to work there, but in the last minute changed my plan, got into a bus, and read about the ills of civilization (Civilized to Death by Christopher Ryan). After an hour of public transport reading, I entered the café, write a half-page about my inability to carrying on with my life, and then struggle to put my brain in order again.
 
@@ -117,9 +141,7 @@ First of all, thanks for your support and your presence in my life B. You are on
 
 You say that you are not brave enough to do the changes I am doing, but maybe it is just that you lack the right circumstances. That is why I told you that I am paving the way, so it is easier for others to follow. If I offer you a place to live where I guarantee that I can cover your basic needs in exchange of some work and that I will help you accomplish whatever is your purpose in life, I guess you would be brave enough to live your current situation and come to decide your future and buy your freedom. I don’t want to sound as a sect, or guru, because seats are limited since Sapiens groups split over 150 people. I am choosing nature as guidance, and I will keep its limits as well.
 
-```{r fig.align='center', echo=FALSE}
-knitr::include_graphics("images/2020/Borna/depre.jpg")
-```
+<img src="images/2020/Borna/depre.jpg" width="508" style="display: block; margin: auto;" />
 
 Yes, this is the face that people don’t see. The one I have when I feel miserable and lonely. The one that not even the person I am sharing my miseries with can see because when I am communicating my pains, I am already with another being, so my suffering is lower. When I am alone, it is when I suffer. That is the face of my suffering.
 
@@ -251,16 +273,15 @@ So, that is the idea. Visualize with me, and the visions will become truth faste
 
 Coming back to our story. I met T. T. at the Antwerp Train Station.
 
-```{r tom, fig.cap= "Tom and me doing the classical 2005 Break-dance pictures.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
-knitr::include_graphics("images/2020/Carlota/tom-break.jpg")
-```
+<div class="figure" style="text-align: center">
+<img src="images/2020/Carlota/tom-break.jpg" alt="Tom and me doing the classical 2005 Break-dance pictures." width="75%" />
+<p class="caption">(\#fig:tom)Tom and me doing the classical 2005 Break-dance pictures.</p>
+</div>
 
 
 If you have Instagram, [follow me](https://www.instagram.com/carlitofluito/?hl=en) to be updated with my journey. I usually post some stories about the different steps. Several layers of meaning and information in each story. It is not my goal to create irrelevance for the shake of irrelevance. I already did that in my *24-hours social media experiment*^[Under working process]. I try to cheer up life with some stupidity and from time to time share some useful information.
 
-```{r fig.align='center', echo=FALSE}
-knitr::include_graphics("images/2020/Carlota/antwerp.jpg")
-```
+<img src="images/2020/Carlota/antwerp.jpg" width="540" style="display: block; margin: auto;" />
 
 Anyways, the core of my valuable information is shared through [my texts](https://www.carlitofluitoideas.com/unfinished-books/) and [YouTube videos](https://www.youtube.com/channel/UC5Q8igPq_lE1JQNwbjjy7wA). Go ahead, subscribe, and support.
 
@@ -770,4 +791,7 @@ It's coming, P., it's coming.
 Let it come, let it come.
 
 Amor, 
+
+
+<!--chapter:end:01.Rmd-->
 
