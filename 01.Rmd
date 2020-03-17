@@ -196,25 +196,27 @@ Hello C.,
 
 ### Before the bus
 
-I spend the last day at T. T.’shouse in Antwerp. Today, we ordered his room, went to the city hall to do somepaperwork for his driving license, shop vegan food and cook something quick before I left.It is amazing how materially exaggerated is this country and this part of theworld. So much that it becomes inefficient.
+I spend the last day at T. T.’shouse in Antwerp.
+
+Today, we ordered his room, went to the city hall to do some paperwork for his driving license, shop vegan food and cook something quick before I left. It is amazing how materially exaggerated is this country and this part of the world. So much that it becomes inefficient.
+
+That is what happens at T.’s house.  That is what happened at his room. And, fortunately, the material abundance of our groceries will let their parents have something for dinner when they arrive from work. Tom is a great growing young human soul. I met himwhen he was 12, and I was 22. Now he is 18, I am 27. We are both getting older,like everything else in this part of the universe. 
+
+Today, he received his first lesson on life organization, how to keep your stuff and living place in order (basically, by going minimalistic), and how to feed yourself and cook, basically, by going fruitarian when you are by your own, and having some basic skills with the pan when you are eating with someone. No big deal. 
 
 ```{r corona, fig.cap= "Multilayered picture after ordering the room.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
 knitr::include_graphics("images/2020/Carlota/corona.jpg")
 ```
 
-That is the situation at T.’shouse, it was the situation in his room, and fortunately, the materialabundance of our groceries will let their parents have something for dinnerwhen they arrive from work. Tom is a great growing young human soul. I met himwhen he was 12, and I was 22. Now he is 18, I am 27. We are both getting older,like everything else in this part of the universe. 
-
-Today, he received his firstlesson on life organization, how to keep your stuff and living place in order (basically, by going minimalistic), and how to feed yourself and cook,basically, by going fruitarian when you are by your own, and having some basicskills with the pan when you are eating with someone. No big deal. 
-
 ### Yesterday night
 
-To keep backward storytelling. Yesterday night, we chill and talk over a cup of tea. Lives, loves, dreams, plans, andinterruptions from the smartphone. The dog stopped barking at me and startlicking my feet. Maybe to erase the last drops of Mortimer’s saliva. We weretired from the training, so we went to bed a bit later. 
+Let's keep the backward storytelling. Yesterday night, we chill and talk over a cup of tea. Lives, loves, dreams, plans, and interruptions from the smartphone. The dog stopped barking at me and start licking my feet. Maybe to erase the last drops of Mortimer’s saliva. We were tired from the training, so we went to bed a bit later. 
 
-Funny parentheses. In the middleof the night, while I was dreaming, at some point, I woke up and notice apresence in the bed. I moved fast, grab the being and asked:
+Funny parentheses. In the middle of the night, while I was dreaming, at some point, I woke up and notice a presence in the bed. I moved fast, grab the being and asked:
 
 --- *Who are you? What are you doing here?* 
 
-That being was T. T., whom I had just woke upwith my instinctive reaction. After realizing that I was at his bed, I said: 
+That being was T. T., whom I had just woke up with my instinctive reaction. After realizing that I was at his bed, I said: 
 
 --- *You are T. T.. Okay.* 
 
@@ -222,7 +224,7 @@ I laughed a bit.
 
 --- *Fuck man… That was weird. I am going to pee. I will tell you tomorrow.*
 
-So you see. This is my level ofsurviving system. I can sleep on the bed with a friend and wake up in themiddle of the night fully disoriented and ready to fight whoever had invaded myspace. Even when I am the invader. 
+So you see. This is my level of surviving system. I can sleep on the bed with a friend and wake up in the middle of the night fully disoriented and ready to fight whoever had invaded my sleeping space. Even when I am the invader. 
 
 We were tired because we havegone training after being on the shopping mall with P., Tom’s aunt. The training was okay. I saw some old friends, dance a bit, oil my rusty body, andcommunicate with some lovely souls through the phone. Many things are coming,really, really fast.
 
