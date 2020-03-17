@@ -15,7 +15,7 @@ So, I wake up about 20 minutes ago in the office. I stayed here last night becau
 
 And for the record, that is my face after waking up in the office:
 
-```{r fig.align='center', echo=FALSE}
+```{r ofi, fig.cap= "Yes, I know I am pretty.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
 knitr::include_graphics("images/2020/Borna/ofi.jpg")
 ```
 
@@ -117,7 +117,8 @@ First of all, thanks for your support and your presence in my life B. You are on
 
 You say that you are not brave enough to do the changes I am doing, but maybe it is just that you lack the right circumstances. That is why I told you that I am paving the way, so it is easier for others to follow. If I offer you a place to live where I guarantee that I can cover your basic needs in exchange of some work and that I will help you accomplish whatever is your purpose in life, I guess you would be brave enough to live your current situation and come to decide your future and buy your freedom. I don’t want to sound as a sect, or guru, because seats are limited since Sapiens groups split over 150 people. I am choosing nature as guidance, and I will keep its limits as well.
 
-```{r fig.align='center', echo=FALSE}
+
+```{r depre, fig.cap= "Life happens...", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
 knitr::include_graphics("images/2020/Borna/depre.jpg")
 ```
 
@@ -256,9 +257,10 @@ knitr::include_graphics("images/2020/Carlota/tom-break.jpg")
 ```
 
 
-If you have Instagram, [follow me](https://www.instagram.com/carlitofluito/?hl=en) to be updated with my journey. I usually post some stories about the different steps. Several layers of meaning and information in each story. It is not my goal to create irrelevance for the shake of irrelevance. I already did that in my *24-hours social media experiment*^[Under working process]. I try to cheer up life with some stupidity and from time to time share some useful information.
+If you have Instagram, [follow me](https://www.instagram.com/carlitofluito/?hl=en) to be updated with my journey. I usually post some stories about the different steps. Several layers of meaning and information in each story. It is not my goal to create irrelevance for the shake of irrelevance. I already did that in my *24-hours social media experiment*^Under construction. May I receive your understanding or collaboration messages. 
+]. I try to cheer up life with some stupidity and from time to time share some useful information.
 
-```{r fig.align='center', echo=FALSE}
+```{r antwerp, fig.cap= "Beautiful station but...", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
 knitr::include_graphics("images/2020/Carlota/antwerp.jpg")
 ```
 
@@ -276,7 +278,8 @@ K. and I ordered R.’s house until the last minute, clean up the patio, and clo
 
 ### Rituals before starting to dream
 
-K., S., and C. slept at my place. They did so because they stayed after dinner and helped me clean. The cleaning was fun: stupid jokes, mansplaining and womansplaining, poo2theloo, the correct degree of physical exert after dinner, and physical tiredness when the task is completed. One of the wonderful things that happened that night was an idea I had had less than a week ago. In my personal ritual at the bath, after raising my vibration with a couple of puffs of marijuana, and filming [“*Tutorial: How to have a spiritual experience?*”] **(ADD LINK!)**, I had the insight of being in Zambia with my friends, and giving massages to each other in a ritualistic way, at least, once per week. We are all dancers that work with our bodies, and we easily accumulate tension and damage, not only from the physical effort but for the cohabiting dynamics. Sharing a place to live, projects, and occupations can create frictions and eroding positive dynamics between each other. Thus, it is fundamental to have a cleaning ritual with a fixed frequency to get rid of the bad shit and welcome the good shit. One of the most simple, humane, and direct ways of doing so, is to give massages to each other. Normally, a massage of 45 min can cost up to 50 or 60€. However, what is the point of wasting the money you earn in a massage if you have people that can massage you in exchange of massaging them back? That is the point of living in a community. Using the money for obataining the things you really need money to acquire. Not massages, dog sitters, nurses, teachers, psychologists, sociologists, and so on. Please… Come' on.
+K., S., and C. slept at my place. They did so because they stayed after dinner and helped me clean. The cleaning was fun: stupid jokes, mansplaining and womansplaining, poo2theloo, the correct degree of physical exert after dinner, and physical tiredness when the task is completed. One of the wonderful things that happened that night was an idea I had had less than a week ago. In my personal ritual at the bath, after raising my vibration with a couple of puffs of marijuana, and filming “*Tutorial: How to have a spiritual experience?*”^[Under construction. May I receive your understanding or collaboration messages. 
+], I had the insight of being in Zambia with my friends, and giving massages to each other in a ritualistic way, at least, once per week. We are all dancers that work with our bodies, and we easily accumulate tension and damage, not only from the physical effort but for the cohabiting dynamics. Sharing a place to live, projects, and occupations can create frictions and eroding positive dynamics between each other. Thus, it is fundamental to have a cleaning ritual with a fixed frequency to get rid of the bad shit and welcome the good shit. One of the most simple, humane, and direct ways of doing so, is to give massages to each other. Normally, a massage of 45 min can cost up to 50 or 60€. However, what is the point of wasting the money you earn in a massage if you have people that can massage you in exchange of massaging them back? That is the point of living in a community. Using the money for obataining the things you really need money to acquire. Not massages, dog sitters, nurses, teachers, psychologists, sociologists, and so on. Please… Come' on.
 
 Thus, after cleaning, I introduced the ritual by saying that, by turns, one person will massage another while telling good things about her and their relationships. K. proposed that the three of us will massage the fourth at the same time (which was an idea I was reserving for later). Thus, we did so. In the beginning, we limited the massage to the hands, to avoid sexual connotations and discomfort, but then, people understood the dynamic, and respectfully we spread the surface to be massaged. The material abundance, *Lush* free samples, and my dermatitis allowed us to use a wide range of creams and balsams. I was burning a piece of sandalwood in absence of incense stick. Some candles allowed the melatonin to spread comfortably all over our brains, while the oxytocin was flooding our whole system due to the human touch. S. was the first. She was the tryout, mostly a massage on the hands, and lightly on the head, neck, and back. I remind her of the idea I had had a few weeks ago about the *alarmasseur*, which is the rotating role in the community that is supposed to awake others by giving them a massage. That night was more like, *sleepmasseur*. I told her some good things about us that she already knew, but is good to hear and say anyways. Love was flowing.
 
