@@ -891,7 +891,9 @@ It would be a good moment for adding a picture of a Narcisus, but then I would h
 ```{r narciso, fig.cap= "00.54... Click [here]( https://ast.wikipedia.org/wiki/Narcissus) to know more than me about what I talk.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
 knitr::include_graphics("images/2020/Paloma/narciso.jpg")
 ```
+
 Just kidding, this is the picture I wanted to add: 
+
 ```{r narcisus, fig.cap= "00.56... I don’t know anything about [this]( https://en.wikipedia.org/wiki/Narcissus_(mythology)) either.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
 knitr::include_graphics("images/2020/Paloma/narcisus.jpg")
 ```
