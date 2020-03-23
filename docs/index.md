@@ -1,7 +1,7 @@
 --- 
 title: "Paving my path (Letters from 2019-2020)"
 author: "Carlos Alcala a.k.a. Carlito Fluito"
-date: "2020-03-18"
+date: "2020-03-23"
 site: bookdown::bookdown_site
 documentclass: book
 link-citations: yes
