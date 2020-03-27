@@ -888,7 +888,7 @@ It would be a good moment for adding a picture of a Narcisus, but then I would h
 
 00.52
 
-```{r narciso, fig.cap= "00.54... Click [here]( https://ast.wikipedia.org/wiki/Narcissus) to know more than me about what I talk.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
+```{r narciso, fig.cap= "00.54... Click [here](https://en.wikipedia.org/wiki/Narcissus_(plant)) to know more than me about what I talk.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
 knitr::include_graphics("images/2020/Paloma/narciso.jpg")
 ```
 
