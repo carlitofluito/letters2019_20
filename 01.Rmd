@@ -537,7 +537,7 @@ I quickly made the conversation atypical, as I always do:
 
 That was the question I couldn’t answer at that moment. When I face difficult questions that require complex answers I usually take my time to came up with a satisfactory answer in terms of length and accuracy. For example, once someone asked me why I didn’t like Belgium, and I answered that we didn’t share the same values. In the yoga studio, I didn’t want to come up with any thinking process, and since my impulsivity and spontaneity were fully functioning, I answered:
 
---- *life, life, life, life… Actually, there was quite a lot of life.*
+--- *Life, life, life, life… Actually, there was quite a lot of life.*
 
 I hadn’t verbalized yet how much I have lived in Brussels during this time, and it is undeniable that in two years many things, many people, many processes, many moments, many situations happened.
 
@@ -967,6 +967,68 @@ C.F.
 
 
 
+
+
+
+
+
+# Corona times. March 2020
+
+## 2020-04-03 To Viki {-#20200403Viki}
+
+2020-04-03
+
+08.05 
+
+Hello Viki, 
+
+It feels so bad not to fast. I was supposed to stay without food until, at least, 12.00. But look what happened that I started with the blueberries, I moved to the strawberries, then nuts, then figs, then oat milk. It is not even a strictly [fruitarian breakfast]( https://carlitofluito.github.io/dreams/routine.html), as I would like it to be. Now my stomach aches, my [dopamine](https://en.wikipedia.org/wiki/Dopamine) has made me go for more figs more than three times before I was able to sit down and start writing. But at least, I have the skills to go deep again, at whatever the situation and let my unconscious mind write. So, say hi to my others *I*’s.
+
+```{r belin, fig.cap= "*Europe, 2020*. Closing chapters.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
+knitr::include_graphics("images/2020/Abril/berlin.jpg")
+```
+
+I am leaving Europe, this is the end of another epoch, another stage on my life. I was in [Tiergarten](https://en.wikipedia.org/wiki/Tiergarten_(park)), [Belin]( https://en.wikipedia.org/wiki/Berlin), looking at the squirrel, looking at rabbits, at birds, at those sprouts that made me feel a reminiscence of the [psilocybin](https://en.wikipedia.org/wiki/Psilocybin) effects in [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam)^[Something like [this](https://carlitofluito.github.io/letters2019_20/ohm-namae.html)]. I was there, unconsciously remembering that you called me squirrel when I was moving around your body in Leuven. When I thought I was a fox, you were thinking about lizards, because my face loved to be always at the level of your skin when we were together. The gravity of your body gluing my tongue and eyes to your whiteness. 
+
+Today, you don’t talk to me. You don’t want to talk with me. We don’t match anymore. Our vibrations are really foreigners of each other’s. And that’s okay. I don’t know if it was the psychopath, or if it was the psilocybin, or the fact that I am going to leave Europe for a long time, but I don’t care much about you. You were with me at some point of my journey and I am infinitely grateful of how much you made me grow. I am infinitely grateful of how much love I received from you, of how you were when we were together. But seems that this is really over. The last time we have seen each other it was because I was in [Hungary](https://en.wikipedia.org/wiki/Hungary), not because you were in [Spain]( https://en.wikipedia.org/wiki/Spain) or in [Leuven](https://en.wikipedia.org/wiki/Leuven). It felt sort of a complication for you too met me, (although I remember that you came to the center to meet me and then we have to re-arrange the meeting for the next day because of me). You are still a person with a wonderful heart, I have no doubt about that. 
+
+However, you hadn’t really asked me how I was doing, not even once. You have been just annoyed for me, from my communication. You have even been exaggerated, and thinking in polarizing, absolutist terms. It is not “*every time we talk*” that you regret, it is every time you remember that we talked that you regret. You brain, your psyche, your memory is already biased, focused on the negative aspects of our story. You remember that, you are stuck with that, and that’s okay, that’s okay for me. It is not my soul the one that remembers those aspects of our story. My soul is cleaner, or so it seems. At least with our situation. 
+
+It has been a really long journey. A stage of 6 years, since I went to Leuven ready to explore Europe and discovered that I had to explore myself, to arrive to [the picture I took two days ago](\@ref(r berlin)) in the [Brandenburg Gate](https://en.wikipedia.org/wiki/Brandenburg_Gate), here in Berlin. To notice that indeed, I am closing chapters. That Europe is pretty much done, and that I am ready to move to the next step. 
+
+Almost by accident, I got most of my hair cut as if I were a monk, or a marine. Again, ready to fight, and ready to pray. Ready to go inside myself, which is probably one of the toughest battles that every human being has to fight. If they want to fight.
+
+ ```{r pelao, fig.cap= "*Berlin (Germany). April, 2020*. Becaming a monk.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
+knitr::include_graphics("images/2020/Abril/pelao.jpg")
+```
+
+I have your letters, [published](https://carlitofluito.github.io/letters2013_14/) and [unpublished]( https://carlitofluito.github.io/letters2014_15/), showing how much I suffer and how I much I loved you. Showing how alive you made me feel. Honestly, it was like you were the perfect person for that moment of my life, one of the best moments of my life. And that is the lesson, when I was at my best, I found you as the best match. A girl that still today, I take you as one of the best. You matched me. However, all that is over today. That is the lesson from the universe. It gives me my needed teacher at the needed time. Then it teaches me to let things go. I have taken some extra time to realize that I also have to let you go.
+
+I sent you “*Goodbye and best wishes*” few days ago. Again goodbye. Just because you couldn’t take a joke as a joke, because you lost your sense of humor, the one you asked me never to lose. I could blame on myself, my inappropriate jokes, and my communicative style. But I don’t think there is nothing wrong with me this time. I am aware of how sensitive you are with blaming and guilt, but that is something you have to work on yourself. Nothing to do with me this time. I learnt that lesson with the psychopath. That was it. Also, because I realize how little you cared about me since our separation. It is true that at the beginning you were there, we were talking, writing and *Skyping*… But little by little you have grown more and more distant. 
+
+You are not my friend anymore. That’s a pity, but that’s a fact. I don’t have pain or hold negative feelings towards you anymore. Most of them went away the second night I spent with the psychopath at [Tallinn](https://en.wikipedia.org/wiki/Tallinn). She cleaned me of myself. She cleaned me of all the rancor and pain I used to hold with my past relationships. She introduced me to a cleaner self^[It was actually me the one that went through the process, but she was the trigger.]. I forgave all the mistakes I committed, and I forgave you for all the things I used to blame you. 
+
+Today, there is only a quiet gratitude, a generalizable love, and the feeling that you are not anymore the origin of that painful melancholy that is embedded in [*Commuting*](https://carlitofluito.github.io/commuting/). You are a person, a consciousness, a life that is doing its own somewhere in this planet, simultaneously. Someone that is already outside of my way, of my path, someone that is gone. Someone that I can welcome again if it happens that enters my life again, but that I accept that we may die without seeing each other. It is like this; it is just this simple. And I am okay with that. 
+
+Our time of being in the same place and in the same time, together or separated, is gone. You may come to Zambia, or to one of my public events, and then, maybe, we see each other again, but it is not going to be me the one looking for you, it is not going to be me the one that seek our encounter again. It is over. I can feel it so clearly. 
+
+My loneliness was bringing me towards you again and again, but I already put my loneliness under control, at the cost of leaving a free place to live, and a job of 2.000€ per month. I already sell my loneliness to a kind of expensive price, if you think in economically materialistic terms. [I bought my love](https://www.youtube.com/watch?v=TXk8BVUnrL8). 
+
+Here in Berlin, I tamed the last remains of loneliness. I discovered that I don’t need other people to carry on with my tasks, with my writings, with my movement routines. I can keep on growing and evolving maintaining my independence. That was a big advance, a huge cleaning session. Just smoking, find myself alone, and getting ready to create, measure my impact, and wake up ready to go through my whole routine step by step. From the fasting, to the writing, to the yoga. Just as a cleaning process. 
+
+Always [take the most independent option](https://www.youtube.com/watch?v=LRVmfx4EWI0). And, this time, the most independent choice was buying an airplane ticket back to Spain yesterday, and leaving Europe as soon as possible. I am ready to buy a land where I am expected to live and maybe die. I am ready to grow my own food, to [build my own dwelling](https://carlitofluito.github.io/letters2019_20/to-c-.html#tea-at-toms-place-future-plans); to stop paying other people in order to sustain my physiological needs and keep my body alive and functioning. It is not [that I am getting out of the system](https://www.youtube.com/watch?v=vxNYkes0qtM), it is that I am already outside, and I am just perfecting how to thrive here. 
+
+I hope you are doing well as well. I hope that all in your life is good. It would be nice to see each other on the future, just to catch up, to know how your life is evolving. But I don’t think any of us needs it. So, it may not happen. It will probably not happen. Anyway, you are always welcome to my life. You are always welcome to ask me how I am doing, how life is evolving. Nevertheless, I am a quite public figure, whether I have audience or not. And that is why, you may probably not need to ask me directly, you just need to type my nickname in your Google search engine. 
+
+Enjoy your life, your existence and the development of your consciousness. 
+
+Thanks for having been in my life, and for your impact on it. 
+
+Infinite love, 
+
+Carlos 
+
+9.24 (Hour and a half of working)
 
 
 
