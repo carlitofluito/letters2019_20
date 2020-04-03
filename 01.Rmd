@@ -974,7 +974,7 @@ C.F.
 
 # Corona times. March 2020
 
-## 2020-04-03 To Viki {-#20200403Viki}
+## 2020-04-03 To Viki
 
 2020-04-03
 
@@ -994,11 +994,11 @@ Today, you don’t talk to me. You don’t want to talk with me. We don’t matc
 
 However, you hadn’t really asked me how I was doing, not even once. You have been just annoyed for me, from my communication. You have even been exaggerated, and thinking in polarizing, absolutist terms. It is not “*every time we talk*” that you regret, it is every time you remember that we talked that you regret. You brain, your psyche, your memory is already biased, focused on the negative aspects of our story. You remember that, you are stuck with that, and that’s okay, that’s okay for me. It is not my soul the one that remembers those aspects of our story. My soul is cleaner, or so it seems. At least with our situation. 
 
-It has been a really long journey. A stage of 6 years, since I went to Leuven ready to explore Europe and discovered that I had to explore myself, to arrive to [the picture I took two days ago](\@ref(r berlin)) in the [Brandenburg Gate](https://en.wikipedia.org/wiki/Brandenburg_Gate), here in Berlin. To notice that indeed, I am closing chapters. That Europe is pretty much done, and that I am ready to move to the next step. 
+It has been a really long journey. A stage of 6 years, since I went to Leuven ready to explore Europe and discovered that I had to explore myself, to arrive to the picture I took two days ago in the [Brandenburg Gate](https://en.wikipedia.org/wiki/Brandenburg_Gate), here in Berlin. To notice that indeed, I am closing chapters. That Europe is pretty much done, and that I am ready to move to the next step. 
 
 Almost by accident, I got most of my hair cut as if I were a monk, or a marine. Again, ready to fight, and ready to pray. Ready to go inside myself, which is probably one of the toughest battles that every human being has to fight. If they want to fight.
 
- ```{r pelao, fig.cap= "*Berlin (Germany). April, 2020*. Becaming a monk.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
+ ```{r pelao, fig.cap= "*Berlin (Germany). April, 2020*. Becaming a monk.", fig.margin = TRUE, out.width = "75%", out.height = "75%", fig.align='center', echo=FALSE}
 knitr::include_graphics("images/2020/Abril/pelao.jpg")
 ```
 
