@@ -222,7 +222,7 @@ Funny parentheses. In the middle of the night, while I was dreaming, at some poi
 
 That being was T. T., whom I had just woke up with my instinctive reaction. After realizing that I was at his bed, I said: 
 
---- *You are T. T.. Okay.* 
+--- *You are T.O T.. Okay.* 
 
 I laughed a bit. 
 
@@ -972,7 +972,7 @@ C.F.
 
 
 
-# Corona times. March, April 2020
+# Corona times. March, April, May 2020
 
 ## 2020-04-03 To Viki
 
@@ -1082,3 +1082,81 @@ Love,
  
 Carlos
 
+
+## 2020-05-03 To M.
+
+2020-05-03
+
+Valladolid, España
+
+08-37
+
+M., 
+
+I know that I wrote you on Facebook less than 4 hours ago, but I would like to save some of the things and changes that are happening in my life in this letter for my future. 
+
+I think it is pretty obvious that I am going through a transformation at the moment. A spiritual transformation, a process of enlightenment. It always works like this. I stop sleeping much, I need to sleep less. My energy levels that are usually high on me, get even higher, more expansive, more creative, and more meaningful. I am having a clear vision of what I am doing here, and towards where I am moving. And, yesterday night, as I mentioned to you, I had a “*drug flashback*” from my episode with the bufotenin and the psilocybin. 
+
+I have been doing a lot of spiritual work lately. Primarily, the one created by [Regan Hyllier](https://www.reganhillyer.com/), which you may know directly since she was living in Bali until recently. I have been seeing some of her lectures and doing her spiritual activations. 
+
+Regan is the creator of the meditation about money and abundance that I listen to on the terrace of my friend S. in Berlin. It caught me completely unguarded. She said “*trust on the process, don’t judge, remain open minded*”, and when she started to do the light language or whatever the name it is, I was thinking that she was speaking an alien language. There, on the chair, receiving the sun on my skin, and letting myself surrender to the words and sounds, I already felt that something had changed. But I felt it deeply deeply deeply. I suddenly noticed several synchronicities, I noticed the connection, I noticed that I had discovered a tool that I was unaware of, and that it seemed that it worked. 
+
+Then, the following days, I kept on doing more activations (one for romantic partners), and somehow, I became more serious with my routines, which is also another signal of espiritual englithment, at least in my èrsonal case. It is a sign of alignment with my higher self, or a raising on my vibration, or whatever the interpretation. I was waking up, fasting without food, writing, and then coming back to the room, block the light, set up some mantras, and work out my body physically within that dark morning vibe; letting myself be guided by feeling and intuition, and letting the mantras give me some time reference in that infinitely empty space. 
+
+The days continued, and I felt that my place was in Valladolid. At the beginning, it was a bit difficult because I was cleaning and ordering the house in a minimalistic style. Which I have partially succeeded. But once I considered I had already created my spaces, the spaces I need to feel comfortable and keep growing, then, I focused again on my work. 
+
+Here, I have skyrocketed as well. I had some days of struggle and procrastination, where I was overusing my phone or masturbating before going to sleep, but one day, I aimed for 10 days of fasting, and indeed, it served as a reboot of the system. I only did 3, but the effect had been done already. 
+
+After that, I have been experimenting with several fasting strategies finding the most efficient for me at the moment in 48 hours each two or three days. Also, as I mentioned to you, I would like to try to develop a 48h pattern of sleep, skipping one night and sleeping about 12 hours the second. It is really beneficial for me, since I get really higher levels of focus during the night since there are less distractions, time becomes really productive, and I can advance with my projects. 
+
+Thanks to Regan as well, I have set up a clear goal with a clear day that I prefer not to share with you, and this goal has pushed me to be more diligent and have a clear task to accomplish. I even have found a coach that can help me on this journey. 
+
+Before the fasting, I did the 5 days of activation with Regan, which were also super effective, and I had several extremely clear and intense visualizations. Since then, I started to listen daily to her “*Manifest more money*” 42 minutes [video](https://www.youtube.com/watch?v=RtaSk8B9h-k). 
+
+I talked with a friend here in Valladolid that is interested in developing an online platform to make some money and grow as a psychologist/coach. She had the original idea, and then she was happy that I jumped in, but after two or three days, she asked me to go out, since she felt that I was taking over her project. She is very smart and spiritually knowledgeable, so she is aware that it is something that she has to work on, that she has blockages and fears to unlock. The thing was that the whole project was growing maybe faster than what she could process. I had read a book called [“*The money code*”](https://www.amazon.com/Money-Code-Free-Wise-Rich-ebook/dp/B00JT59PGM) that gave me a clear map and a set of actions to build businesses, and which I was implementing everything on my friend’s idea. We developed the concept, the values, the motto, the mission, and then it started to materialize in a website, a bank account, until she stopped me when I asked if I could hire an IT guy for developing the online platform. It was going too fast for her, but for me, it was just a good solid timing. It was advancing. 
+
+Anyway, since she put me aside, I found myself forced to focus on my goals, and now I am doing not only my main goal of the moment, but also other artistic projects. One of them the participation in a street dance battle for Teatros Canal of Madrid. You’ll soon know about it. Besides, I have kept on improving my environment, with for example, the clear up of my PC and virtual desktop with the picture I did in Germany.
+
+```{r intro, fig.cap= " *Munster (Germany). March, 2020*: It took me a while to take this picture with my [Fairphone](https://www.fairphone.com/en/) and an improvised tripod. I like the result, though.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
+knitr::include_graphics("images/2020/intro.jpg")
+```
+
+And my screen saver with has the picture of my prehistoric brunch, 
+
+```{r brunch, fig.cap= " *Munster (Germany). March, 2020*: This plate will end up in the menu of a future exclusive meal…. Just saying.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
+knitr::include_graphics("images/2020/valladolid.jpg")
+```
+
+And the one I did yesterday after freaking out during my walk. 
+
+```{r hanuman, fig.cap= " *Valladolid (Spain). May, 2020*: Realizing that psychedelics are all round nature.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
+knitr::include_graphics("images/2020/hanuman.jpg")
+```
+
+Yesterday night was super strong. The bufo on the bed, and then the psilocybin by looking at the margeritha. I had to control it myself. “*Put it down! Put it down, put it down, put it down*.” “*Take it in, take it in, take it in, take it in.*” Do you remember? I think I am starting to understand that “*cellular level*” that you mention in Amsterdam, and Reagan and [Juampa](https://juanpablobarahona.com/), Regan’s partner, mention in their videos. It was funny, that day I was referring to the structure of my body at a “*joints level*” because I was feeling how the small injuries and annoyances that I have had along my body were energetically connected. But anyway, I was feeling the path jumping from joint to joint. Now, when I practice these spiritual exercises, I better take it in a cellular level, because there is indeed way too much energy to distribute for just a few joints. I indeed need to channel it more efficiently. 
+
+And that is the main reason of writing to you. I know you are out there doing amazing things for me, meditating on me, sending me love, and indeed I am starting to receive clearly some of the signals. This morning, I slept a bit after a “*yin yoga del cabestro*” session. I lied on the yoga mat with a blanket, and I put the pillow on a box that I had used as a yoga brick. The temperature was low, so I was half asleep, as when you are sleeping outside and the morning starts to rise with its coolness that wakes up so many human bodies. However, there was something really surprising. I was hearing the birds chirping, but my brain wasn’t reacting as if I was listening to birds, but if I was listening to a conversation. A bit of an annoying conversation because they were repeating their “chirping” one to another. “*Twee*t”, “*tweet*”, “*tweet*”, “*tweet*”. 
+
+The feeling was like if an annoying neighbor is talking loud and wakes you up. But they were birds. They somehow entered my unconscious mind, since I was still in a dreamy state, and who  knows if I was even able to understand a “word”. Or at least my brain reacted as if it was a word. Fuck M., it opens so, so, many doors and interpretations of what mind and brain can do. I am freaking out. The day you mentioned that you spoke with the snakes in Bali, I didn’t doubt it, but today I have something similar to fear when I realize how much of “speak” you might have meant.
+
+Well, as you see, similar blockages. Fear of going crazy and disconnect with this reality. Really the trip of the flower yesterday was big, big, big and intense. I was in the city, so stepping on concrete “helped” me to keep it low. But, I feel that if I keep on growing, that I am going to keep on growing (I am sure of this), I need tools to channel and manage these new levels of energy. There is too much inside me that I have to learn how to work with, how to distribute it, how to avoid what overwhelms me and distracts me from what I aim or unplugs me completely from this civilized dimension. Maybe that is what it is supposed to be, but I would like to take that decision more consciously. 
+
+I asked this question in Amsterdam already. I told you, “*So, now… What do I have to do with all this?*” You said meditation, and later on, something like chakras work or similar if that resonated with me. 
+
+Well, do you maintain your word? Should I explore a bit of chakra work? In that case, where should I start? Mindvalley has wonderful courses and one is about chakras. However, I would like to add another obligation into my already packed day, but maybe I need to prioritize it in order to keep my “sanity”.
+
+Please, give me some guidance on this. 
+
+Thank you very much for your presence and your existence. You know perfectly that you are amazing, that you are incredible and that if I know everything and everything is in my interior; you know everything and everything is within you. I am very surprised at how fast you mention that I shouldn’t take drugs. In our facebook conversation I guess you mentioned it because of the methylphenidate, but I also mentioned coffee. I also drink tea, and depending on the level of sensitivity everything can become a drug (like the image of a flower). I am in a 48h fasting since yesterday, so hopefully, there will be no physical drugs other than water, but I cannot promise about other types of drugs that are less physical.
+
+I will avoid the Concerta as much as possible in the future, but it is clear that it works wonderfully in my brain and puts me in a state of mind of high productivity and industriousness. However, I should listen to the lovely and wise people in my life that are holding the same message about avoiding taking it. P., M.,the coach, D., you.... I will think twice next time I have the impulse of doing it. 
+
+About my father, things have become quite interesting. He has difficulties expressing his feelings and needs. Also, he felt attacked and threatened by my project of “minimilizing” the house. He has been watching too much TV with all these covid things, and he says that obeying the authorities is the thing to do. As you can imagine, we clash. I manage my own emotions, I think independently, I have developed practices to sustain my wellbeing. He is being dragged down by his thoughts and emotions. He blames me. He says that the fact that I go to the street outside of the established timings (in Spain adults can go out from X to X, elderly from X to X, kids from X to X) is causing him a lot of psychological discomfort. I think he is deeply alone, and he is losing his power and authority over me. I guess he fears me as an uncontrollable force. He has suggested several times that I have to go out of the house because it’s his house, and yesterday, after some discussion, I realized that he is a potential male older than 65 that commits suicide because he is unable of bearing with the heaaviness of living alone. That is sad. But the lesson I got in contact with was, if I had to leave this civilization aside to focus on my survival and growth, maybe I have to learn to leave these potential suicidal people aside to focus on my growth, even if he is my father. 
+
+He has also done a lot instauring a mindset of victimhood and scarcity on the family mindset, but I am working on it. I think I have it pretty fixed on myself, but I see it reflected on my mother and brothers quite oftenly. 
+
+You can also advise me on this if you want. 
+
+Love love love M., 
+
+Carlos  
