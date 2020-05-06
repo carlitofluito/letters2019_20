@@ -1124,13 +1124,13 @@ knitr::include_graphics("images/2020/intro.jpg")
 And my screen saver with has the picture of my prehistoric brunch, 
 
 ```{r brunch, fig.cap= " *Munster (Germany). March, 2020*: This plate will end up in the menu of a future exclusive meal…. Just saying.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
-knitr::include_graphics("images/2020/valladolid.jpg")
+knitr::include_graphics("images/2020/valladolid/food.jpg")
 ```
 
 And the one I did yesterday after freaking out during my walk. 
 
 ```{r hanuman, fig.cap= " *Valladolid (Spain). May, 2020*: Realizing that psychedelics are all round nature.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
-knitr::include_graphics("images/2020/hanuman.jpg")
+knitr::include_graphics("images/2020/valladolid/hanuman.jpeg")
 ```
 
 Yesterday night was super strong. The bufo on the bed, and then the psilocybin by looking at the margeritha. I had to control it myself. “*Put it down! Put it down, put it down, put it down*.” “*Take it in, take it in, take it in, take it in.*” Do you remember? I think I am starting to understand that “*cellular level*” that you mention in Amsterdam, and Reagan and [Juampa](https://juanpablobarahona.com/), Regan’s partner, mention in their videos. It was funny, that day I was referring to the structure of my body at a “*joints level*” because I was feeling how the small injuries and annoyances that I have had along my body were energetically connected. But anyway, I was feeling the path jumping from joint to joint. Now, when I practice these spiritual exercises, I better take it in a cellular level, because there is indeed way too much energy to distribute for just a few joints. I indeed need to channel it more efficiently. 
