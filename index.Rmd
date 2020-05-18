@@ -24,11 +24,15 @@ I hope you find something that makes your life more meaningful and satisfactory.
 
 If this is the first time you find out about me, I am Carlos Alcala a.k.a. Carlito Fluito. I like sharing my ideas and experiences through [writing](www.carlitofluitoideas.com), [performing](www.carlitofluito.com), sporadic [YouTube videos](https://www.youtube.com/channel/UC5Q8igPq_lE1JQNwbjjy7wA), and spontaneous [Instagram posts](https://www.instagram.com/carlitofluito/?hl=en).
 
-```{r intro, fig.cap= " *Munster (Germany). March, 2020*: It took me a while to take this picture with my [Fairphone](https://www.fairphone.com/en/) and an improvised tripod. I like the result, though.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
-knitr::include_graphics("images/2020/intro.jpg")
+```{r logo, fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
+knitr::include_graphics("images/2020/logo.png")
 ```
 
 The seriousness of my content varies from "*This guy is crazy!*" to "*It makes sense what he's saying...*". In any case,  As any other human being, I have needs to survive. If you find value in anything I do, and you want to keep me alive^[Or help me growing, let's not be so dramatic.], I will be extremelly grateful if you support me on [Patreon](https://www.patreon.com/carlitofluito)^[I am also a qualified psychologist, running online counseling and coaching sessions. Feel free to contact if you are interested in working together.], or drop me a "*Thanks for creating*" message. 
+
+```{r intro, fig.cap= "*Munster (Germany). March, 2020*: It took me a while to take this picture with my [Fairphone](https://www.fairphone.com/en/) and an improvised tripod. I like the result, though.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
+knitr::include_graphics("images/2020/intro.jpg")
+```
 
 Best, and enjoy reading!!
 
